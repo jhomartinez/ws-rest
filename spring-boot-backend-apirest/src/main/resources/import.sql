@@ -1,0 +1,11 @@
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES ('Jhon','Martinez','jhon@gmail.com','2018-01-01');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES ('Mac','Martinez','jhonmac@gmail.com','2018-02-01');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES ('Billy','Martinez','jhonbilly@gmail.com','2018-03-01');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES ('Mario','Martinez','jhon1@gmail.com','2018-04-01');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES ('m1','Martinez','jhon2@gmail.com','2018-05-01');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES ('n2','Martinez','jhon3@gmail.com','2018-06-01');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES ('d1','Martinez','jhon4@gmail.com','2018-07-01');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES ('f2','Martinez','jhon5@gmail.com','2018-08-01');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES ('n4','Martinez','jhon6@gmail.com','2018-09-01');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES ('e1','Martinez','jhon7@gmail.com','2018-01-02');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES ('w1','Martinez','jhon8@gmail.com','2018-01-03');
